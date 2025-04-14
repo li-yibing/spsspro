@@ -1,0 +1,5 @@
+spsspro.egg-info/
+*.pyc
+*.pyo
+*.exe
+*.dll
