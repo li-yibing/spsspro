@@ -1,4 +1,8 @@
 spsspro.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
 *.pyc
 *.pyo
 *.exe
