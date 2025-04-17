@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="spsspro",
-    version="0.1.0",
+    version="v0.1.1",
     description="统计分析和机器学习工具包",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
